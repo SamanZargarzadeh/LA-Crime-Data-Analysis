@@ -4,7 +4,7 @@ Analyzing official data from LAPD for ten years of Los Angeles city crime. Visua
 
 
 
-##Data
+## Data
 
 The dataset is hosted by the City of Los Angeles. The organization has an open data platform called Los Angeles Open Data, which updates its information according to the amount of data that is brought in. This dataset is reported by the LAPD and maintained using Socrata's API and Kaggle's API. This dataset has 28 columns of variables, such as date and time of crimes, and their report also includes specific data about the location of the crime, such as area code and name, latitude and longitude coordinates, street address, etc. It also has data on crime type and code. Moreover, there is data about victims which is not in our discussion, which is why it has been omitted. Two datasets from 2010 to 2019 and 2019 to August 2021 were found. R Studio combines these two datasets for more accurate project results. For further analysis, the dataset also includes exact hours and weekdays. After mixing the data, missing values are checked using R functions. The year 2021 is excluded from the crime rate analysis because it lacks 12-month data. This project's final data spans 2010 to 2020.
 
