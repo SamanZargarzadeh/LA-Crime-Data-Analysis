@@ -12,22 +12,31 @@ The dataset is hosted by the City of Los Angeles. The organization has an open d
 
 Upon analyzing the minimums and maximums of the variables, we were able to come up with the following result for crime rates based on area, month, and day of the week, as well as time of the day. Many of the results from our dataset were interesting, and the results were both expected and unexpected. For instance, the busiest crime day of the year was Halloween, and violent crime was most common in Los Angeles. Through our analysis, we have strategically manipulated the dataset to both maximize the tourist experience and minimize the amount and type of crime a typical tourist may face in Los Angeles. 
 
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/88157400/230701740-f4ae6428-3f00-437c-9d89-1382eb03177d.png">
 
 Figure 1
 
 Figure 1 displays the areas of exploration that our team chose based on crime rate ranking and then further narrowed down to include popular destinations that tourists would typically visit during a trip to Los Angeles. In this project, the tourist destinations we chose are the Los Angeles County Museum of Arts (LACMA) and the Grove Mall located in Central LA, the Hollywood Walk of Fame in Hollywood, the University of Southern California in the Southwest, and Santa Monica Pier in the Pacific region.
 
+<img width="373" alt="image" src="https://user-images.githubusercontent.com/88157400/230701755-dae3f107-0bc1-47f4-a5d0-f69ef604e7bd.png">
 
 Figure 2
 
 Figure 2 shows data grouped by month and visualized for better and easier interpretation of the data. The graph displays that July, August, and October are the months with the highest number of crimes, while February has the lowest crime rate. Therefore, it is appropriate to conclude that February would be the safest month to visit Los Angeles.
 
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/88157400/230701779-632929c9-f2b2-453d-87f7-30f7b0e23486.png">
+<img width="103" alt="image" src="https://user-images.githubusercontent.com/88157400/230701788-40a9e906-404c-464b-8768-82d62b1df061.png">
 
 Figure 3
 
 
 We observed an abnormal peak at 12 pm, shown in Figure 3, which is likely to be an error due to it being a placeholder value for records with null time values. Excluding data abnormalities at 12:00 pm, we see that crime in the four chosen regions spikes from 6:00 pm to 8:00 pm. This was a major factor in our decision making and was taken into heavy consideration when creating the itinerary. As seen in the image below, Figure 4 illustrates the regions with higher densities of crime, in red, in the Los Angeles regions at the time of 6:00 pm.
-  
 
-        Figure 4 						   Figure 5
+<img width="225" alt="image" src="https://user-images.githubusercontent.com/88157400/230701797-5ca77b6f-0524-41b5-bda0-0a83b0f3eb6b.png">
+Figure 4 						   
+
+<img width="230" alt="image" src="https://user-images.githubusercontent.com/88157400/230701803-e49924c7-eb84-49c2-aacc-c527bd3ee19a.png">
+
+Figure 5
+
 Lastly, Figure 5 displays the top 6 most frequent crimes occurring among the Los Angeles regions. Violent crimes such as assault in Los Angeles is the most common. Therefore, visitors who visit the area should stay vigilant and keep a low profile to avoid being victims. 
