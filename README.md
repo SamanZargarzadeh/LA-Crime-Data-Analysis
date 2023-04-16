@@ -30,7 +30,6 @@ Figure 2 shows data grouped by month and visualized for better and easier interp
 
 Figure 3
 
-
 We observed an abnormal peak at 12 pm, shown in Figure 3, which is likely to be an error due to it being a placeholder value for records with null time values. Excluding data abnormalities at 12:00 pm, we see that crime in the four chosen regions spikes from 6:00 pm to 8:00 pm. This was a major factor in our decision making and was taken into heavy consideration when creating the itinerary. As seen in the image below, Figure 4 illustrates the regions with higher densities of crime, in red, in the Los Angeles regions at the time of 6:00 pm.
 
 <img width="225" alt="image" src="https://user-images.githubusercontent.com/88157400/230701797-5ca77b6f-0524-41b5-bda0-0a83b0f3eb6b.png">
